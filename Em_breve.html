@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em Breve</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #000000;
+            font-family: 'Roboto', sans-serif;
+            text-align: center;
+        }
+        .message {
+            background-color: #000000;
+            border: 1px solid #ffffff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+        }
+        .message h1 {
+            margin: 0;
+            color: #ffffff;
+        }
+        .message p {
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <h1>Estamos trabalhando nisso!</h1>
+        <p>Esta página estará disponível em breve. Você será redirecionado para o menu principal.</p>
+    </div>
+
+    <script>
+        // Redireciona para o menu principal 
+        setTimeout(function() {
+            window.location.href = 'Página_inicial.html'; 
+        }, 5000);
+    </script>
+</body>
+</html>
