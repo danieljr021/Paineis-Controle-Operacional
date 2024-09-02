@@ -8,7 +8,7 @@ function goToNextPage() {
 
 function atualizarImagem() {
     var timestamp = new Date().getTime();
-    var imageUrl = `//10.144.29.200/Publico/Painel/painel%20situacional.png?${timestamp}`;
+    var imageUrl = `//XX.XXX.XX.XXX/Publico/Painel/painel%20situacional.png?${timestamp}`;
     document.getElementById('painel-img').src = imageUrl;
 }
 
