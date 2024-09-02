@@ -8,7 +8,7 @@ function goToNextPage() {
 
 function atualizarImagem() {
     var timestamp = new Date().getTime();
-    var imageUrl = `//10.144.29.200/Publico/Painel/entroncamento.png?${timestamp}`;
+    var imageUrl = `//XX.XXX.XX.XXX/Publico/Painel/entroncamento.png?${timestamp}`;
     document.getElementById('painel-img').src = imageUrl;
 }
 
