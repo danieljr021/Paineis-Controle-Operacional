@@ -4,7 +4,7 @@ Muito feliz por aprensentar por aqui um código funcional no qual utilizamos no 
 
 Linguagens Utilizadas: HTML, CSS, Javascript.
 
-Imagens e gifs reais do projeto:
+Imagens reais do projeto:
 
 -Imagem referente a Página 1:
 <img width="959" alt="Painel-Atualizado" src="https://github.com/user-attachments/assets/ec74e757-6d0a-49f9-8908-fafd296ad270">
