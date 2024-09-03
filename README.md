@@ -6,7 +6,7 @@ Linguagens Utilizadas: HTML, CSS, Javascript.
 
 Imagens e gifs reais do projeto:
 - Interação Carrossel página inicial:
-![Gravação - Painéis  dinâmicos Controle Op](https://github.com/user-attachments/assets/6a9e0eb5-52ac-42ba-ae02-12a33b9ca9eb)
+<img src="![Gravação - Painéis  dinâmicos Controle Op](https://github.com/user-attachments/assets/8e200287-125c-4a16-9156-deb30e06e7ea)" width="300" height="200" alt="Descrição do GIF">
 - Imagem referente a Página 1:
 <img width="959" alt="Painel-Atualizado" src="https://github.com/user-attachments/assets/ec74e757-6d0a-49f9-8908-fafd296ad270">
 - Imagem referente a Página 2:
@@ -15,3 +15,4 @@ Imagens e gifs reais do projeto:
 Futuras atualizações:
 - Adição de mais páginas do projeto.
 - Adição de descrições específicas do projeto.
+
