@@ -4,9 +4,10 @@ Muito feliz por aprensentar por aqui um projeto funcional no qual utilizamos no 
 
 Linguagens Utilizadas: HTML, CSS, Javascript.
 
-Imagens reais do projeto:
-
--Imagem referente a Página 1:
+Imagens e gifs reais do projeto:
+- Interação Carrossel página inicial:
+![Gravação - Painéis  dinâmicos Controle Op](https://github.com/user-attachments/assets/6a9e0eb5-52ac-42ba-ae02-12a33b9ca9eb)
+- Imagem referente a Página 1:
 <img width="959" alt="Painel-Atualizado" src="https://github.com/user-attachments/assets/ec74e757-6d0a-49f9-8908-fafd296ad270">
 - Imagem referente a Página 2:
 <img width="960" alt="Entroncamento-Atualizado" src="https://github.com/user-attachments/assets/a4cd3690-35e3-499f-9024-7cc90fd79936">
