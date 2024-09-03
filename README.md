@@ -4,9 +4,8 @@ Muito feliz por aprensentar por aqui um projeto funcional no qual utilizamos no 
 
 Linguagens Utilizadas: HTML, CSS, Javascript.
 
-Imagens e gifs reais do projeto:
-- Interação Carrossel página inicial:
-<img src="![Gravação - Painéis  dinâmicos Controle Op](https://github.com/user-attachments/assets/8e200287-125c-4a16-9156-deb30e06e7ea)" width="300" height="200" alt="Descrição do GIF">
+Imagens reais do projeto:
+
 - Imagem referente a Página 1:
 <img width="959" alt="Painel-Atualizado" src="https://github.com/user-attachments/assets/ec74e757-6d0a-49f9-8908-fafd296ad270">
 - Imagem referente a Página 2:
