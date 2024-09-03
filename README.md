@@ -4,7 +4,10 @@ Muito feliz por aprensentar por aqui um projeto funcional no qual utilizamos no 
 
 Linguagens Utilizadas: HTML, CSS, Javascript.
 
-Imagens reais do projeto:
+Imagens e gifs reais do projeto:
+
+- Gif referente ao uso da Página Inicial:
+![f0075518-7e40-4adc-94d4-1a2151ac63b8](https://github.com/user-attachments/assets/011bed2b-9ad4-4171-9001-6d83a0777caf)
 
 - Imagem referente a Página 1:
 <img width="959" alt="Painel-Atualizado" src="https://github.com/user-attachments/assets/ec74e757-6d0a-49f9-8908-fafd296ad270">
